@@ -6,7 +6,7 @@ Powerful Software
 
 ### Welcome to the repository
 
-Feel free to access [my portfolio] (http://portfolio.jordanhudgens.com).
+Feel free to access [my portfolio](http://portfolio.jordanhudgens.com).
 
 > ## Etiam pulvinar sollicitudin gravida
 >
